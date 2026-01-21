@@ -23,7 +23,7 @@ jobs:
       run: |
         pip install pytest
           
-    -name: execute the test script
+    - name: execute the test script
      run: |
        pythom -m unittest test_calculator.py
        
