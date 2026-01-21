@@ -26,7 +26,3 @@ jobs:
     - name: execute the test script
      run: |
        pythom -m unittest test_calculator.py
-       
-        
-      
-
