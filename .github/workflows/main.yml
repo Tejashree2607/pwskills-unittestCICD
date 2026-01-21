@@ -25,4 +25,4 @@ jobs:
           
     - name: execute the test script
      run: |
-       pythom -m unittest test-calculator.py
+       pythom -m unittest testgreeter.py
